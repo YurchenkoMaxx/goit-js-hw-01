@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Maksym Yurchenko homework2
+# goit-js-hw-01
+Maksym Yurchenko homework1
